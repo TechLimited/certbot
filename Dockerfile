@@ -1,4 +1,4 @@
-FROM certbot/certbot
+FROM certbot/certbot:latest
 MAINTAINER DylanWu
 
 ENV DOMAIN=
